@@ -7,11 +7,11 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **The Open University of Sri Lanka**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lakshanjayalath](https://github.com/rukshanvishwa) 
+- 👨‍💻 All of my projects are available at [https://github.com/rukshanvishwa](https://github.com/rukshanvishwa) 
 
 - 💬 Ask me about **Java, Web Development**
 
-- 📫 How to reach me **iamdhananjaya119@gmail.com**
+- 📫 How to reach me **rukshanprakash123@gmail.com**
 
 
 ---
